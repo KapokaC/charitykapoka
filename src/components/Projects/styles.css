@@ -1,0 +1,15 @@
+.projects-container {
+    z-index: 1;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 100% 98%, 0 100%);
+}
+
+.wrapper-row {
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.projects-card-container {
+    display: flex;
+    gap: 28px;
+    flex-wrap: wrap;
+}

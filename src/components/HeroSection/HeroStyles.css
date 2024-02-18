@@ -1,0 +1,9 @@
+.typeWriter {
+    font-weight: 600;
+    font-size: 30px;
+    display: flex;
+    gap: 12px;
+    line-height: 68px;
+    color: #F2F3F4 ;
+}
+
